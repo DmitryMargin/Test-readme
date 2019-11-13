@@ -28,3 +28,5 @@ function showUser(user) {
 ```
 
 [**reference**](https://js-lessons.glitch.me/literals)
+
+[**Scrin1**](https://prnt.sc/pw51j0)
