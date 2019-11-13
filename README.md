@@ -7,6 +7,9 @@
 
 ![](http://vsviti.com.ua/wp-content/uploads/2018/10/images-1.jpg)
 
+![](https://prnt.sc/pw51j0)
+
+
 ```js
 var user1 = {
 	name:"Vasya",
